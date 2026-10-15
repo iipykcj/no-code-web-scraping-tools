@@ -3,7 +3,6 @@
 Getting data off websites used to mean hiring developers or spending weeks learning to code. Now you can point, click, and walk away with clean spreadsheets in minutes. Whether you're tracking competitor prices, building prospect lists, or pulling research data, the right no-code scraper changes everything. This guide walks through the platforms doing the heavy lifting for sales teams, marketers, researchers, and anyone tired of copy-pasting data by hand. Expect tools that handle JavaScript sites, manage proxies automatically, and export straight to your favorite apps.
 
 ---
-
 ## [Browse AI](https://www.browse.ai)
 
 Cloud-based automation turning any website into live spreadsheets and APIs without writing code.
@@ -211,6 +210,16 @@ AI-powered desktop app (Windows, Mac, Linux) with Smart Mode auto-detection and 
 ScrapeStorm balances automation and control via two modes. Smart Mode uses AI to identify lists, tables, and pagination automatically—just enter a URL and ScrapeStorm extracts data. Flowchart Mode gives visual workflow building for complex scraping: simulate clicks, form fills, multi-level navigation, and conditional logic without code. Built-in rotating proxies, task scheduling, and cloud service (run jobs on their servers) handle scale and automation.
 
 Data exports to Excel, CSV, TXT, HTML, or databases (MySQL, MongoDB). ScrapeStorm supports all major operating systems and offers RESTful API access for integrating scraping into other apps. Use cases include e-commerce price monitoring, job board data collection, and academic research. The free Starter plan allows 10 tasks and 100 rows/day export. Professional plans start at $39.99/month, with higher tiers unlocking unlimited tasks, scheduling, and file downloads.
+
+## [Agenty](https://agenty.com/)
+
+AI-powered web scraping extension to build and scrape websites visually in browser extension, and API/MCP integration for automated data extraction.
+
+<img width="1450" height="843" alt="Agenty" src="https://github.com/user-attachments/assets/032a1bed-ffcb-4b83-8f04-29a501275bb5" />
+
+Agenty combines no-code scraping with AI-powered automation to extract structured data from websites. Use the [browser extension](https://chromewebstore.google.com/detail/agenty-advanced-web-scrap/gpolcofcjjiooogejfbaamdgmgfehgff) to select and capture data from web pages, or build custom scraping agents for complex workflows involving navigation, pagination, and dynamic content. Automate repetitive extraction tasks and collect data from multiple URLs without manually copying information.
+
+Extract data from product listings, business directories, job boards, search results, and other web pages. Clean and transform scraped data with post-processing rules, then export or integrate results into your existing workflows using APIs and MCP for AI agents. Agenty supports use cases such as e-commerce price monitoring, lead generation, competitor research, and large-scale web data collection.
 
 ***
 
